@@ -309,19 +309,16 @@ footer nav a {
 .services-about{
     width:95%;
     padding-bottom:30px;
+    border-bottom:1px dotted black;
 }
 .topSectioncontainer{
     display:flex;
     width:100%;
     flex-direction:row;
+    margin-top:4%;
     margin-right: 35%; 
     margin-bottom:45%;
 
-}
-hr{
-    width:93%;
-    margin-right:13%;
-    color:black;
 }
 .strategy{
     height:40px;
